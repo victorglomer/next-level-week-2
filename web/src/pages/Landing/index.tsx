@@ -14,6 +14,7 @@ import api from '../../services';
 
 function Landing() {
 
+
     const [totalConnections, setTotalConnections] = useState(0);
 
     // buscar assim que a pagina está pronta - useEffect
